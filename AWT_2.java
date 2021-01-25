@@ -17,7 +17,8 @@ public class AWT_2 extends Frame  {
         addWindowListener(new WindowAdapter() {
            
             public void windowClosing(WindowEvent e)
-            {dispose();
+            {
+                dispose();
             }
 
 
