@@ -4,7 +4,8 @@ public class InsertAtN_LL
     {
         Node next;
         int data;
-        Node(int data)
+        
+Node(int data)
         {
             this.data=data;
         }
@@ -13,7 +14,6 @@ public class InsertAtN_LL
  {   
      
  }   
-
  Node insert(Node head,int pos,int data)
  {
      Node temp=new Node(data);
