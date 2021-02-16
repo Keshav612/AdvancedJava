@@ -3,7 +3,7 @@ import java.util.*;
 import java.util.Queue;
 import java.util.Stack;
 import java.util.LinkedList;
-public class ReverseQueue
+public class ReverseQueue_K
 {
     static Queue<Integer> q;
     public static void main(String[] args) {
